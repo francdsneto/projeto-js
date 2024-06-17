@@ -1,5 +1,5 @@
-# Projeto de acompanhamento do Curso de Javascript da ADA
-## Santanders Coders - 2024
+# Curso de Javascript da ADA
+## Santander Coders - 2024
 
 > Status: Em Andamento
 
